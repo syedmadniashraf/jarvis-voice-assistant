@@ -41,15 +41,16 @@ This project demonstrates how to build a basic AI assistant using Python with re
 
 Clone the repository:
 
-
+```
 git clone https://github.com/syedmadniashraf/jarvis-voice-assistant.git
 cd jarvis-voice-assistant
+```
 
 Install dependencies:
 
-
+```
 pip install -r requirements.txt
-
+```
 
 ---
 
@@ -57,9 +58,9 @@ pip install -r requirements.txt
 
 Create a `.env` file in the root directory and add your API key:
 
-
+```
 NEWS_API_KEY=your_api_key_here
-
+```
 
 ---
 
@@ -67,9 +68,9 @@ NEWS_API_KEY=your_api_key_here
 
 Run the program:
 
-
+```
 python main.py
-
+```
 
 ---
 
@@ -85,13 +86,13 @@ python main.py
 
 ## 📁 Project Structure
 
-
+```
 jarvis-voice-assistant/
 │── main.py
 │── requirements.txt
 │── README.md
 │── .env (not included)
-
+```
 
 ---
 
