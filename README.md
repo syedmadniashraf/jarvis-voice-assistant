@@ -116,7 +116,7 @@ jarvis-voice-assistant/
 
 ## 👨‍💻 Author
 
-**Syed Madni**
+**Syed Madni Ashraf**
 
 ---
 
