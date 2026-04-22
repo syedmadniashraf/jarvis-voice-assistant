@@ -120,13 +120,9 @@ jarvis-voice-assistant/
 
 ---
 
-## ⭐ Show Your Support
+## ⭐ Support
 
-If you like this project:
-
-* ⭐ Star the repository
-* 🍴 Fork it
-* 🚀 Improve it
+If you like this project, consider giving it a ⭐ on GitHub!
 
 ---
 
